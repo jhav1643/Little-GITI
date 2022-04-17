@@ -1,0 +1,37 @@
+.body{
+    background-color: rgb(201, 242, 228);
+}
+.image{
+    height:3.5em;
+    width: 3.8em;
+}
+
+.navbar
+{
+    background-color: rgba(0, 0, 0, 0.607);
+}
+
+.nav-item{
+    margin: 0em 30px
+}
+
+.btn{
+    font-size: 17px;
+    background-color: rgba(0, 0, 0, 0.9);
+    color: white;
+    border-radius: 7px;
+}
+
+.btn:hover{
+    color: black;
+    background-color: aliceblue;
+    border: 1px solid black;
+}
+
+.card-title{
+    font-size: 25px;
+}
+
+.form-inline{
+    margin-left: 10px;
+}
